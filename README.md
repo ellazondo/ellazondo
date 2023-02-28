@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ellazondo
-- 👀 I’m interested in changing my career to coding
-- 🌱 I’m currently learning how to code with SheCodes Pro
-- 💞️ I’m looking to collaborate on I don't even know yet
-- 📫 How to reach me is not important yet.
+- 👋 Hi, I’m Gabriella (or Ella)
+- 👀 I’m interested in deepen my understanding of React JS and React Native
+- 🌱 I’m currently at Flatiron School in Manhattan for Software Engineering
+- 💞️ I’m looking to collaborate on React JS and Ruby on Rails projects
+- 📫 How to reach me: gabriellaelizondo@gmail.com
 
 <!---
 ellazondo/ellazondo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
